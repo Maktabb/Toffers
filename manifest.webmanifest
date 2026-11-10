@@ -1,10 +1,11 @@
 {
+ "id": "./",
  "name": "مشروع تأسيس شركات",
  "short_name": "تأسيس شركات",
- "description": "أداة إعداد عروض أسعار تأسيس الشركات — مكتب محمود سالم للمحاسبة والمراجعة وتأسيس الشركات",
+ "description": "أداة عروض أسعار تأسيس الشركات — مكتب محمود سالم",
  "lang": "ar",
  "dir": "rtl",
- "start_url": "index.html",
+ "start_url": "./",
  "scope": "./",
  "display": "standalone",
  "orientation": "portrait",
